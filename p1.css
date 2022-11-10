@@ -24,6 +24,10 @@ li{
     margin-bottom: 15px;
 }
 
+a{
+    color: black;
+}
+
 .personal{
     border: 10px solid #002F6F;
     border-left: 0px;
